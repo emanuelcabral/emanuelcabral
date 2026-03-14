@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emanuel Cabral</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/57564820?v=4" width="160" style="border-radius:50%">
+</p>
 <h3 align="center">💻 Web Developer | 🧠 AI Instructor | 🚀 Tech Enthusiast</h3>
 
 <p align="center">
