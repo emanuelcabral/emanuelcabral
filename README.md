@@ -11,7 +11,7 @@
 
 💡 Passionate **Web Developer and Technology Educator**
 
-- 👨‍🏫 Professor of **Artificial Intelligence and Python**
+- 👨‍🏫 Professor of **Web developer, Wordpress, Artificial Intelligence and Python**
 - 💻 Web developer specialized in **Front-End technologies**
 - 🎓 Over **70 courses taught and 7,000+ students trained**
 - 🌎 Based in **Argentina**
