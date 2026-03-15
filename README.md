@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuel Cabral</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/57564820?v=4](https://drive.google.com/file/d/16N_2jJmSDMZsTa1viNhOKTFYJmWzfUxB/view?usp=sharing" width="160" style="border-radius:50%">
+  <img src="https://drive.google.com/file/d/16N_2jJmSDMZsTa1viNhOKTFYJmWzfUxB/view?usp=drive_link" width="160" style="border-radius:50%">
 </p>
 <h3 align="center">💻 Web Developer | 🧠 AI Instructor | 🚀 Tech Enthusiast</h3>
 
