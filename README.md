@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuel Cabral</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emanuelcabral/emanuelcabral/refs/heads/main/mi%20perfil%20animado.gif" width="160" style="border-radius:50%">
+  <img src="https://raw.githubusercontent.com/emanuelcabral/emanuelcabral/refs/heads/main/mi%20perfil%20animado.gif" width="600" style="border-radius:50%">
 </p>
 <h3 align="center">💻 Web Developer | 🧠 AI Instructor | 🚀 Tech Enthusiast</h3>
 
