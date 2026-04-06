@@ -52,10 +52,6 @@
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emanuelcabral&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emanuelcabral&layout=compact&theme=tokyonight)
-
 ![streak](https://streak-stats.demolab.com?user=emanuelcabral&theme=tokyonight)
 
 ---
