@@ -54,6 +54,8 @@
 
 ![streak](https://streak-stats.demolab.com?user=emanuelcabral&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=emanuelcabral&theme=dark&hide_border=false&layout=compact)
+
 ---
 
 # 📈 GitHub Activity
